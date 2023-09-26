@@ -10,7 +10,7 @@ Projects
 
 The following are the projects I have recently undertaken.
 
-* `GitHub scraper API <https://gitlab.com/bytecamp/github-scraper>`_ (21 August 2023 – )
+* `RepoScraper <https://gitlab.com/bytecamp/github-scraper>`_ (First release: 26/09/2023)
 
 Contact
 -------
