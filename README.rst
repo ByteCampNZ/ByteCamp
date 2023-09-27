@@ -13,7 +13,7 @@ Projects
 
 The following are the projects I have recently undertaken.
 
-* `RepoScraper <https://gitlab.com/bytecamp/github-scraper>`_ (First release: 26/09/2023)
+* `RepoScraper <https://github.com/bytecamp/repo-scraper>`_ (First release: 26/09/2023)
 
 Contact
 =======
